@@ -1,0 +1,40 @@
+[submodule "src/moveit_commander"]
+	path = src/moveit_commander
+	url = https://github.com/ros-planning/moveit_commander.git
+	branch = hydro-devel
+[submodule "src/moveit_core"]
+	path = src/moveit_core
+	url = https://github.com/ros-planning/moveit_core.git
+	branch = hydro-devel
+[submodule "src/moveit_docs"]
+	path = src/moveit_docs
+	url = https://github.com/ros-planning/moveit_docs.git
+	branch = hydro-devel
+[submodule "src/moveit_msgs"]
+	path = src/moveit_msgs
+	url = https://github.com/ros-planning/moveit_msgs.git
+	branch = hydro-devel
+[submodule "src/moveit_planners"]
+	path = src/moveit_planners
+	url = https://github.com/ros-planning/moveit_planners.git
+	branch = hydro-devel
+[submodule "src/moveit_plugins"]
+	path = src/moveit_plugins
+	url = https://github.com/ros-planning/moveit_plugins.git
+	branch = hydro-devel
+[submodule "src/moveit_pr2"]
+	path = src/moveit_pr2
+	url = https://github.com/ros-planning/moveit_pr2.git
+	branch = hydro-devel
+[submodule "src/moveit_resources"]
+	path = src/moveit_resources
+	url = https://github.com/ros-planning/moveit_resources.git
+	branch = master
+[submodule "src/moveit_ros"]
+	path = src/moveit_ros
+	url = https://github.com/ros-planning/moveit_ros.git
+	branch = hydro-devel
+[submodule "src/moveit_setup_assistant"]
+	path = src/moveit_setup_assistant
+	url = https://github.com/ros-planning/moveit_setup_assistant.git
+	branch = hydro-devel
